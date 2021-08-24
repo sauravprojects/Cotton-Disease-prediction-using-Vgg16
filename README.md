@@ -1,0 +1,2 @@
+# Cotton-Disease-prediction-using-Vgg16
+For this project I have download dataset form Kaggel . In this dataset there are three folders like train , test and validation folder . In this dataset there are 4 category like diseased cotton leaf , diseased cotton plant , fresh cotton leaf , fresh cotton plant .Traditional CNN does not perform that well so have used Transfer Learning concept. After applying Vgg16 the accuracy scores drastically changes.
